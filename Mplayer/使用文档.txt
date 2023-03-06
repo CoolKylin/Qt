@@ -1,0 +1,2 @@
+请将歌曲文件放置于Mplayer\source\music中(支持MP3/FLAC/WAV格式)
+请将lrc歌词文件放置于Mplayer\source\lrc中（需与歌曲文件同名）
